@@ -65,7 +65,7 @@
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/HOVSEP93/front-end-todo-ts
 ```
 
 Go to the project directory
